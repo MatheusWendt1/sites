@@ -1,0 +1,6 @@
+Instruções para os alunos:
+- Personalize o menu com pelo menos mais dois itens.
+- Modifique as cores do menu para usar um esquema de cores diferente, e personalize as cores do site.
+- Adicione um logotipo no cabeçalho.
+- Crie uma pagina para cada link
+
